@@ -1,0 +1,11 @@
+.aboutme-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.aboutme-description{
+    width: 40vw;
+}
