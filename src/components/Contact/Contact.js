@@ -3,7 +3,7 @@ import "./contact.css";
 
 const Contact = () => {
   return (
-    <div classNameName="container bg-dark">
+    <div className="container">
        
 
         <div className="row">
@@ -12,8 +12,7 @@ const Contact = () => {
       <div className="container text-center">
         <h2 className="mt-5 text-uppercase title">Contact Me</h2>
         <p className="text-justify">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. A beatae
-          
+          Please fill out the form and describe your project needs I'll contact you as soon as possible.
         </p>
         </div>
           <form className="mt-5">
@@ -28,7 +27,7 @@ const Contact = () => {
 
             <div className="form-group mb-3">
               <input
-                type="number"
+                type="text"
                 className="form-control"
                 id="exampleFormControlInput1"
                 placeholder="Phone"

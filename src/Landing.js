@@ -7,6 +7,7 @@ import Servicess from './components/Education/Education';
 import Education from './components/Education/Education';
 import Projects from './components/Projects/Projects';
 import Contact from './components/Contact/Contact';
+import Footer from './components/Footer/Footer';
 
 const Landing = () => {
     return (
@@ -20,6 +21,7 @@ const Landing = () => {
               <Route exact path="/education" component={Education}/> 
               <Route exact path="/contact" component={Contact}/>
           </Switch>
+          <Footer/>
 
 
         </>

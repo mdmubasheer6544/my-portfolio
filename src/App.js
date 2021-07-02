@@ -1,13 +1,13 @@
 import React from "react";
 import "bootstrap/dist/css/bootstrap.min.css";
 import "../node_modules/tsparticles/Enums/index";
-import { BrowserRouter } from "react-router-dom";
+import { HashRouter } from "react-router-dom";
 import Landing from "./Landing";
 function App() {
   return (
-    <BrowserRouter>
+    <HashRouter>
       <Landing />
-    </BrowserRouter>
+    </HashRouter>
   );
 }
 
