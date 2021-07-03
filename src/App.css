@@ -12,7 +12,7 @@ body {
   font-family: "Roboto Condesed", sans-serif;
 }
 
-nav{
+nav {
   z-index: 2;
   padding: 0 !important;
 }
@@ -46,13 +46,13 @@ nav ul li {
   height: 6rem;
 }
 
-@media (max-width:768px) {
-  .navbar-brand{
+@media (max-width: 768px) {
+  .navbar-brand {
     width: 7rem;
   }
 }
 .navbar-nav > li > a.active,
-.navbar-nav > li > a.active:focus {
+.navbar-nav > li > a:focus {
   border-bottom: 0.1875rem solid var(--primary-orange);
 }
 .navbar-nav > li > a:hover {
@@ -89,17 +89,16 @@ nav ul li {
   text-transform: uppercase;
 }
 
-
 /*************typed text******/
 .typed-text {
   font-size: 2rem;
   color: var(--primary-white);
 }
-@media (max-width:768px) {
-  .main-info h1{
+@media (max-width: 768px) {
+  .main-info h1 {
     font-size: 1.5rem !important;
   }
-  .typed-text{
+  .typed-text {
     font-size: 1.3rem !important;
   }
 }
@@ -114,28 +113,27 @@ nav ul li {
   text-decoration: none;
 }
 
-.btn-main-offer:hover{
+.btn-main-offer:hover {
   text-decoration: none;
   background-color: var(--prmary-red);
-  color:var(--primary-white);
-  transition: .2s ease-in-out;
-
+  color: var(--primary-white);
+  transition: 0.2s ease-in-out;
 }
 
 /*******particles*******/
-.tsparticles-canvas-el{
-position: absolute;
-height: 100vh;
-width: 100vw;
-z-index: 1;
+.tsparticles-canvas-el {
+  position: absolute;
+  height: 100vh;
+  width: 100vw;
+  z-index: 1;
 }
 
-@media (max-width:768px) {
-  .particles-canvas{
+@media (max-width: 768px) {
+  .particles-canvas {
     display: none;
   }
 }
 
-.title{
-  color:var(--primary-orange) !important;
+.title {
+  color: var(--primary-orange) !important;
 }

@@ -43,13 +43,13 @@ const Footer = () => {
           <div className="col-md-4 col-lg-3 col-xl-3 mx-auto mt-3">
             <h6 className="text-uppercase mb-4 font-weight-bold">Contact</h6>
             <p>
-              <i className="fas fa-home mr-3"></i> Nanded, MH 431604, IN
+              <i style={{color:"orange"}}  className="fas fa-home mr-3"></i> Nanded, MH 431604, IN
             </p>
             <p>
-              <i className="fas fa-envelope mr-3"></i>mdmubasheer6544@gmail.com
+              <i  style={{color:"orange"}} className="fas fa-envelope mr-3"></i> mdmubasheer6544@gmail.com
             </p>
             <p>
-              <i className="fas fa-phone mr-3"></i> + 91 9623559228
+              <i  style={{color:"orange"}} className="fas fa-phone mr-3"></i> + 91 9623559228
             </p>
           </div>
         </div>
@@ -68,23 +68,18 @@ const Footer = () => {
             <div className="text-center text-md-right">
               <ul className="list-unstyled list-inline">
                 <li className="list-inline-item">
-                  <a className="btn-floating btn-sm rgba-white-slight mx-1">
-                    <i className="fab fa-facebook-f"></i>
-                  </a>
-                </li>
-                <li className="list-inline-item">
-                  <a className="btn-floating btn-sm rgba-white-slight mx-1" >
-                    <i className="fab fa-twitter"></i>
-                  </a>
-                </li>
-                <li className="list-inline-item">
-                  <a className="btn-floating btn-sm rgba-white-slight mx-1">
-                    <i className="fab fa-google-plus-g"></i>
-                  </a>
-                </li>
-                <li className="list-inline-item">
-                  <a className="btn-floating btn-sm rgba-white-slight mx-1" >
+                  <a style={{color:"orange"}} href="https://www.linkedin.com/in/mohammad-mubasheer-8251a7175/" className="btn-floating btn-sm rgba-white-slight mx-1" >
                     <i className="fab fa-linkedin-in"></i>
+                  </a>
+                </li>
+                <li className="list-inline-item">
+                  <a  style={{color:"orange"}} href="https://github.com/mdmubasheer6544" className="btn-floating btn-sm rgba-white-slight mx-1">
+                  <i className="fab fa-github"></i>
+                  </a>
+                </li>
+                <li className="list-inline-item">
+                  <a style={{color:"orange"}} href="mailto:mdmubasheer6544@gmail.com"  className="btn-floating btn-sm rgba-white-slight mx-1">
+                    <i className="fab fa-google-plus-g"></i>
                   </a>
                 </li>
               </ul>

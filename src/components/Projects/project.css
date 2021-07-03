@@ -11,8 +11,42 @@
   }
 
   .popupImg{
-    width: 550px;
+    width: 430px;
   }
   .card-img-top{
     height: 100%;
+  }
+  .popupbox{
+    display: flex !important;
+    flex-direction: column !important;
+    align-items: center !important;
+  }
+  .close{
+    border: 0 !important;
+    background: transparent !important;
+    font-weight: bold !important;
+    font-size: 25px !important;
+    color: red !important;
+  }
+  .githubLink{
+    color:var(--primary-orange)
+  }
+  .card{
+    width: 19rem;
+    height: 15rem;
+    padding: 20px;
+  }
+
+  @media (max-width:500px){
+    .popupImg{
+      width: 330px;
+    }
+    .githubLink{
+      font-size: 14px;
+    }
+  }
+  @media (max-width:767px){
+    .card{
+      width: 37rem;
+    }
   }

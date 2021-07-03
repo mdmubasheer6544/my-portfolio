@@ -129,8 +129,8 @@
     text-align: center;
 }
 .imglogo{
-    height: 150px;
-    width: 35%;
+  height: 127px;
+  width: 40%;
 }
 .aboutme{
 text-align: center;
@@ -155,6 +155,9 @@ flex-direction: column;
 }
 .skill-item{
     width: 80vw;
+}
+.skillImage{
+  padding: 20px;
 }
 
 }

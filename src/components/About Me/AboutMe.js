@@ -22,18 +22,7 @@ const AboutMe = () => {
           <div className="col-md-5">
             <h2 className="mb-3 text-uppercase title aboutme">About Me</h2>
             <p className="description">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed
-              dolores accusantium saepe alias labore optio quis libero
-              perspiciatis quo excepturi modi, magni recusandae qui ea eos non
-              pariatur! Aperiam sequi eaque atque veritatis beatae ipsa animi,
-              autem explicabo? Suscipit itaque sit, magnam velit pariatur dicta
-              adipisci! Sapiente amet veniam ex illo obcaecati iste placeat
-              earum sint odio sequi ipsam dignissimos pariatur at iusto
-              recusandae perferendis, ratione ullam totam suscipit nulla
-              veritatis nobis nisi facilis quaerat. Iure voluptate corrupti
-              quasi a officiis optio eveniet eligendi eius illum ut dolores
-              suscipit sit, doloribus atque ratione corporis. Explicabo ipsam
-              quam perferendis ex dolores.
+            Hello, I am Mubasheer, I'm Master in Computer Application from SRTM University.I'm full stack Web Developer. Technologies I used in MERN (MongoDB,ExpressJS,ReacJS,NodeJS).
             </p>
           </div>
         </Roll>
@@ -89,7 +78,6 @@ const AboutMe = () => {
             <img src={skillImg} alt="skillImage" width="100%" />
           
           </div>
-      
         </Rotate>
       </div>
     </div>
