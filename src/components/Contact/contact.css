@@ -1,0 +1,10 @@
+
+
+.text-error{
+    color:red;
+}
+.invalid{
+    border: 1px solid rgb(255, 41, 41);
+    background:rgb(255, 200, 200);
+    color:var(--primary-white)
+}

@@ -43,7 +43,7 @@ const Projects = () => {
           <img
             className="card-img-top"
             src={movieImage}
-            alt="movie image cap"
+            alt="movie-cap"
             onClick={() => {
               handleShow({
                 imgSrc: movieImage,
@@ -61,7 +61,7 @@ const Projects = () => {
           <img
             className="card-img-top"
             src={menuCardImage}
-            alt="menuCard image cap"
+            alt="menuCard-cap"
             onClick={() => {
               handleShow({
                 imgSrc: menuCardImage,
@@ -79,7 +79,7 @@ const Projects = () => {
           <img
             className="card-img-top"
             src={SegmentImage}
-            alt="SegmentCard image cap"
+            alt="SegmentCard-cap"
             onClick={() => {
               handleShow({
                 imgSrc: SegmentImage,
@@ -95,9 +95,9 @@ const Projects = () => {
           className="card mb-5"
         >
           <img
-            className="card-img-top"
+            className="card-top"
             src={NewsImage}
-            alt="NewsCard image cap"
+            alt="NewsCard-cap"
             onClick={() => {
               handleShow({
                 imgSrc: NewsImage,
@@ -113,9 +113,9 @@ const Projects = () => {
           className="card mb-5"
         >
           <img
-            className="card-img-top"
+            className="card-top"
             src={foodImage}
-            alt="NewsCard image cap"
+            alt="NewsCard-cap"
             onClick={() => {
               handleShow({
                 imgSrc: foodImage,

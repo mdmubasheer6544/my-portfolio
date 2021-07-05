@@ -22,7 +22,6 @@ const PopUp = (props) => {
           <div className="mt-3">
             <span className="font-weight-bold">Technologies Used:</span>
             <p className="card-text text-muted">
-              {" "}
               {props.content.technologies}
             </p>
             <div className="mt-3 d-flex">

@@ -119,7 +119,9 @@
   margin-top: 70px;
   box-shadow: 0px 3px 6px;
 }
-
+.skill-row{
+  margin-top: 3rem !important;
+}
 
 
 
@@ -152,12 +154,16 @@ flex-direction: column;
 }
 .skill-item-container{
 flex-direction: column;
+margin: 10px 0;
+}
+.skill-row{
+margin-top: 0 !important;
 }
 .skill-item{
     width: 80vw;
 }
 .skillImage{
-  padding: 20px;
+  padding-bottom: 20px;
 }
 
 }

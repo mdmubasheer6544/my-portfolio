@@ -1,5 +1,4 @@
 import React from "react";
-import profile from "./user-profile.png";
 import "./aboutme.css";
 import react from "../Projects-Images/reactjsLogo.png";
 import node from "../Projects-Images/nodeLogo.png";
@@ -27,7 +26,7 @@ const AboutMe = () => {
           </div>
         </Roll>
       </div>
-      <div className="row mt-5" style={{alignItems:"center"}}>
+      <div className="row skill-row" style={{alignItems:"center"}}>
         <div className="col-md-5 offset-md-2 mt-5">
           <h2 className="text-uppercase title skill-title">My Skills</h2>
           <ul className="skill-list-ul">
@@ -51,7 +50,7 @@ const AboutMe = () => {
             </div>
             <div className="skill-item-container">
               <div>
-                <img src={react} className="programming" />
+                <img src={react} alt="programming" className="programming" />
               </div>
               <div>
                 <small className="skill-title">ReactJS</small>
@@ -61,7 +60,7 @@ const AboutMe = () => {
               </div>
             </div>
             <div className="skill-item-container">
-              <img src={node} className="programming " />
+              <img src={node} alt="programming" className="programming " />
               <div>
                 <small className="skill-title">NodeJS</small>
                 <li className="skill-item">
@@ -75,7 +74,7 @@ const AboutMe = () => {
 
         <Rotate bottom right>
           <div className="col-md-5 mt-5">
-            <img src={skillImg} alt="skillImage" width="100%" />
+            <img className="skillImage" src={skillImg} alt="skillImage" width="100%" />
           
           </div>
         </Rotate>
