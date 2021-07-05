@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/my-portfolio/static/css/main.4b08bd8c.chunk.css",
-    "main.js": "/my-portfolio/static/js/main.7be11817.chunk.js",
-    "main.js.map": "/my-portfolio/static/js/main.7be11817.chunk.js.map",
+    "main.css": "/my-portfolio/static/css/main.32ab2fba.chunk.css",
+    "main.js": "/my-portfolio/static/js/main.d7fb168f.chunk.js",
+    "main.js.map": "/my-portfolio/static/js/main.d7fb168f.chunk.js.map",
     "runtime-main.js": "/my-portfolio/static/js/runtime-main.6c3c3ac7.js",
     "runtime-main.js.map": "/my-portfolio/static/js/runtime-main.6c3c3ac7.js.map",
     "static/css/2.8b83b925.chunk.css": "/my-portfolio/static/css/2.8b83b925.chunk.css",
-    "static/js/2.94bd1b0f.chunk.js": "/my-portfolio/static/js/2.94bd1b0f.chunk.js",
-    "static/js/2.94bd1b0f.chunk.js.map": "/my-portfolio/static/js/2.94bd1b0f.chunk.js.map",
+    "static/js/2.e3f2fea6.chunk.js": "/my-portfolio/static/js/2.e3f2fea6.chunk.js",
+    "static/js/2.e3f2fea6.chunk.js.map": "/my-portfolio/static/js/2.e3f2fea6.chunk.js.map",
     "static/js/3.32c5e290.chunk.js": "/my-portfolio/static/js/3.32c5e290.chunk.js",
     "static/js/3.32c5e290.chunk.js.map": "/my-portfolio/static/js/3.32c5e290.chunk.js.map",
     "index.html": "/my-portfolio/index.html",
     "static/css/2.8b83b925.chunk.css.map": "/my-portfolio/static/css/2.8b83b925.chunk.css.map",
-    "static/css/main.4b08bd8c.chunk.css.map": "/my-portfolio/static/css/main.4b08bd8c.chunk.css.map",
-    "static/js/2.94bd1b0f.chunk.js.LICENSE.txt": "/my-portfolio/static/js/2.94bd1b0f.chunk.js.LICENSE.txt",
+    "static/css/main.32ab2fba.chunk.css.map": "/my-portfolio/static/css/main.32ab2fba.chunk.css.map",
+    "static/js/2.e3f2fea6.chunk.js.LICENSE.txt": "/my-portfolio/static/js/2.e3f2fea6.chunk.js.LICENSE.txt",
     "static/media/FoodDelivery-project.9bf626cd.png": "/my-portfolio/static/media/FoodDelivery-project.9bf626cd.png",
     "static/media/MenuCard-Project.711bbc07.png": "/my-portfolio/static/media/MenuCard-Project.711bbc07.png",
     "static/media/Movie-Project.129b4e23.png": "/my-portfolio/static/media/Movie-Project.129b4e23.png",
@@ -28,8 +28,8 @@
   "entrypoints": [
     "static/js/runtime-main.6c3c3ac7.js",
     "static/css/2.8b83b925.chunk.css",
-    "static/js/2.94bd1b0f.chunk.js",
-    "static/css/main.4b08bd8c.chunk.css",
-    "static/js/main.7be11817.chunk.js"
+    "static/js/2.e3f2fea6.chunk.js",
+    "static/css/main.32ab2fba.chunk.css",
+    "static/js/main.d7fb168f.chunk.js"
   ]
 }
