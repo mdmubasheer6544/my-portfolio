@@ -8,3 +8,8 @@
     background:rgb(255, 200, 200);
     color:var(--primary-white)
 }
+@media (max-width: 450px) {
+    .text-error{
+        font-size: 12px;
+    }
+}

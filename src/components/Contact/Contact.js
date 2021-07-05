@@ -136,7 +136,7 @@ const Contact = () => {
               </small>
             )}
           </div>
-          <form className="contact-form" onSubmit={sendEmail}>
+          <form className="contact-form mt-5" onSubmit={sendEmail}>
             <div className="form-group mb-3">
               <input
                 type="text"

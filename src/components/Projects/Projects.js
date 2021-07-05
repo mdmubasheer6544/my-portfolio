@@ -95,7 +95,7 @@ const Projects = () => {
           className="card mb-5"
         >
           <img
-            className="card-top"
+            className="card-img-top"
             src={NewsImage}
             alt="NewsCard-cap"
             onClick={() => {
@@ -113,7 +113,7 @@ const Projects = () => {
           className="card mb-5"
         >
           <img
-            className="card-top"
+            className="card-img-top"
             src={foodImage}
             alt="NewsCard-cap"
             onClick={() => {
