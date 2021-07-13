@@ -1,15 +1,14 @@
-
-
-.text-error{
-    color:red;
+.text-error {
+  color: rgb(245, 80, 80);
+  font-size: 14px !important;
 }
-.invalid{
-    border: 1px solid rgb(255, 41, 41);
-    background:rgb(255, 200, 200);
-    color:var(--primary-white)
+.invalid {
+  border: 1px solid rgb(245, 80, 80);
+  
+  color: var(--primary-white);
 }
 @media (max-width: 450px) {
-    .text-error{
-        font-size: 12px;
-    }
+  .text-error {
+    font-size: 12px;
+  }
 }

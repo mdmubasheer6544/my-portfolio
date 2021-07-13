@@ -35,12 +35,6 @@ const Navbar = () => {
                 about me
               </Link>
             </li>
-            {/* <li className="nav-item">
-              <Link to="/servicess" className="nav-link">
-                servicess
-              </Link>
-            </li>*/}
-            
             <li className="nav-item">
               <Link to="/project" className="nav-link">
                 projects
@@ -50,9 +44,9 @@ const Navbar = () => {
               <Link to="/education" className="nav-link">
                 Education
               </Link>
-            </li> 
+            </li>
             <li className="nav-item">
-              <Link to="/contact" className="nav-link" >
+              <Link to="/contact" className="nav-link">
                 contact
               </Link>
             </li>

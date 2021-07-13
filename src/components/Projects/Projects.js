@@ -7,7 +7,6 @@ import SegmentImage from "../Projects-Images/Segment-project.png";
 import foodImage from "../Projects-Images/FoodDelivery-project.png";
 import PopUp from "./PopupBox/PopUp";
 
-
 const movieTitle = "Movies Website";
 const menuCardTitle = "Menu Card";
 const SegmentTitle = "Add Segment";
@@ -37,9 +36,7 @@ const Projects = () => {
       <h2 className="mt-5 text-center text-uppercase title"> My Projects</h2>
 
       <div className="servicess-container mt-5">
-        <div
-          className="card mb-5"
-        >
+        <div className="card mb-5">
           <img
             className="card-img-top"
             src={movieImage}
@@ -55,9 +52,7 @@ const Projects = () => {
           />
         </div>
 
-        <div
-          className="card mb-5"
-        >
+        <div className="card mb-5">
           <img
             className="card-img-top"
             src={menuCardImage}
@@ -73,9 +68,7 @@ const Projects = () => {
           />
         </div>
 
-        <div
-          className="card mb-5"
-        >
+        <div className="card mb-5">
           <img
             className="card-img-top"
             src={SegmentImage}
@@ -91,9 +84,7 @@ const Projects = () => {
           />
         </div>
 
-        <div
-          className="card mb-5"
-        >
+        <div className="card mb-5">
           <img
             className="card-img-top"
             src={NewsImage}
@@ -109,9 +100,7 @@ const Projects = () => {
           />
         </div>
 
-        <div
-          className="card mb-5"
-        >
+        <div className="card mb-5">
           <img
             className="card-img-top"
             src={foodImage}

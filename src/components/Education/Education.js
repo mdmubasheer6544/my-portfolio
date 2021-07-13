@@ -12,8 +12,8 @@ const Education = () => {
           <div className="content">
             <h2>Bachelor of Computer Applications(BCA). 2018</h2>
             <p>
-              Lorem ipsum dolor sit amet elit. Aliquam odio dolor, id luctus
-              erat sagittis non. Ut blandit semper pretium.
+              SSBE'S Institute of Technology and Management College. (VIP Road,
+              Vishnu Nagar, Nanded-431602).
             </p>
           </div>
         </div>
@@ -23,14 +23,13 @@ const Education = () => {
           <div className="content">
             <h2>Master of Computer Applications(MCA). 2021</h2>
             <p>
-              Lorem ipsum dolor sit amet elit. Aliquam odio dolor, id luctus
-              erat sagittis non. Ut blandit semper pretium.
+              SSBE'S Institute of Technology and Management College. (VIP Road,
+              Vishnu Nagar, Nanded-431602).
             </p>
           </div>
         </div>
       </div>
     </div>
-   
   );
 };
 

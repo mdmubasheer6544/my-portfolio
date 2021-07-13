@@ -13,7 +13,7 @@ const Contact = () => {
   useEffect(() => {
     setTimeout(() => {
       setSuccessMessage("");
-    }, 3000);
+    }, 5000);
   }, [successMessage]);
   const {
     value: entredName,
