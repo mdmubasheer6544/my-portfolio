@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/my-portfolio/static/css/main.cade10f9.chunk.css",
+    "main.css": "/my-portfolio/static/css/main.db326a77.chunk.css",
     "main.js": "/my-portfolio/static/js/main.42fd2819.chunk.js",
     "main.js.map": "/my-portfolio/static/js/main.42fd2819.chunk.js.map",
     "runtime-main.js": "/my-portfolio/static/js/runtime-main.6c3c3ac7.js",
@@ -12,7 +12,7 @@
     "static/js/3.32c5e290.chunk.js.map": "/my-portfolio/static/js/3.32c5e290.chunk.js.map",
     "index.html": "/my-portfolio/index.html",
     "static/css/2.8b83b925.chunk.css.map": "/my-portfolio/static/css/2.8b83b925.chunk.css.map",
-    "static/css/main.cade10f9.chunk.css.map": "/my-portfolio/static/css/main.cade10f9.chunk.css.map",
+    "static/css/main.db326a77.chunk.css.map": "/my-portfolio/static/css/main.db326a77.chunk.css.map",
     "static/js/2.656d9e42.chunk.js.LICENSE.txt": "/my-portfolio/static/js/2.656d9e42.chunk.js.LICENSE.txt",
     "static/media/FoodDelivery-project.9bf626cd.png": "/my-portfolio/static/media/FoodDelivery-project.9bf626cd.png",
     "static/media/MenuCard-Project.711bbc07.png": "/my-portfolio/static/media/MenuCard-Project.711bbc07.png",
@@ -29,7 +29,7 @@
     "static/js/runtime-main.6c3c3ac7.js",
     "static/css/2.8b83b925.chunk.css",
     "static/js/2.656d9e42.chunk.js",
-    "static/css/main.cade10f9.chunk.css",
+    "static/css/main.db326a77.chunk.css",
     "static/js/main.42fd2819.chunk.js"
   ]
 }
